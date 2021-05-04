@@ -26,6 +26,6 @@ for i in leer_canciones:
     twitter_API.update_status (seleccion)
     time.sleep (43200)
 
-print ("Funcionando!!!")
+print ('Bot en funcionamiento')
 
 listado_canciones.close()
